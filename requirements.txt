@@ -1,0 +1,5 @@
+requests
+bs4
+gspread
+oauth2client
+tqdm
